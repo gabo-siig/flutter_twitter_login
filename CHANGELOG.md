@@ -1,3 +1,11 @@
+## 1.1.4
+
+* Fix issue Android build failed by `compileSdkVersion = 27`. Resolving it by upgrade to 28.
+
+## 1.1.3
+
+* Rename project to `flutter_twitter`
+
 ## 1.1.2
 
 * Forked project to use versioning 
